@@ -1,0 +1,11 @@
+<ul>
+<li><b>main#Absolute(number)</b><pre>Public: takes numer and outputs a positive number
+
+number  - original number
+
+Examples
+
+  Absolute(-4)
+  # => '4'
+
+Returns the absolute number.</pre></li></ul>
